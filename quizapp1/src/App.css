@@ -26,8 +26,7 @@ body{
   position: relative;
 }
 .heading-txt{
-  color:white;
-  /* color:#276272; */
+  color:black;
   font-size: 30px;
   font-weight: bold;
   margin: 10px;
